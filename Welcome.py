@@ -1,0 +1,1 @@
+print ('welcome to SCA Cloud Application, this is my first assessment')
